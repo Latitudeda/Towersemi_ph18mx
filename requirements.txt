@@ -1,4 +1,4 @@
-sphinx-multiproject==1.0.0rc1
+sphinx-multiproject
 sphinx-rtd-theme
 
 
